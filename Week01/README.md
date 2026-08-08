@@ -74,12 +74,12 @@ The following screenshots show the installation and setup of the software and pr
 
 ### GitHub Profile
 
-![GitHub Profile] [https://github.com/ozuya](https://github.com/ozuya)
+**GitHub:** [https://github.com/ozuya](https://github.com/ozuya)
 
 
 ### LinkedIn Profile
 
-![LinkedIn Profile][https://www.linkedin.com/in/gayoso-cedrick/](https://www.linkedin.com/in/gayoso-cedrick/)
+**LinkedIn:**[https://www.linkedin.com/in/gayoso-cedrick/](https://www.linkedin.com/in/gayoso-cedrick/)
 
 ---
 
