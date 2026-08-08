@@ -71,7 +71,7 @@ The following screenshots show the installation and setup of the software and pr
 
 ### Windows ISO
 
-![Windows ISO](screenshots/windows-iso.png)
+![Windows ISO](screenshots/WindowsISO.png)
 
 ### GitHub Profile
 
