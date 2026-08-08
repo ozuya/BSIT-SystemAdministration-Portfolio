@@ -105,3 +105,26 @@ I also had difficulty understanding VirtualBox, virtual machines, and ISO files 
 
 **Solution:**
 I learned that VirtualBox can create a virtual computer inside my actual computer, while an ISO file contains the installation files needed to install an operating system. I followed the installation instructions to prepare Ubuntu and Windows for future virtual machine activities.
+
+---
+
+# Reflection
+
+During this activity, I was able to set up some of the software that we will be using for our IT activities. I already had some basic knowledge of VS Code and GitHub Desktop, so I was more familiar with those compared to the other software. However, I had not used or studied Git, VirtualBox, Ubuntu, and Windows ISO files in detail yet.
+
+One of the things I realized from this activity is that setting up the right tools is an important part of preparing for future IT work. Even though we have not learned how to use all of the software yet, installing and preparing them gave me an idea of what we will be working with in the next activities. I am especially interested in learning more about VirtualBox and the operating systems because they seem useful for practicing different IT tasks.
+
+I think these tools will be helpful for my development as a future System Administrator. VirtualBox and the Ubuntu and Windows ISO files can give me an environment where I can eventually practice working with different operating systems. Git and GitHub Desktop can also be useful for managing files and projects once we start using them more.
+
+This activity was mainly about preparing my professional environment and becoming familiar with the tools that we will use. I still have a lot to learn about them, but I now know what software I will be working with and I am looking forward to learning how to use them properly in the next activities.
+
+---
+
+# References
+
+* Git. (n.d.). *Downloads*. https://git-scm.com/downloads
+* GitHub. (n.d.). *GitHub Desktop*. https://desktop.github.com/
+* Microsoft. (n.d.). *Visual Studio Code*. https://code.visualstudio.com/download
+* Oracle. (n.d.). *Oracle VM VirtualBox*. https://www.virtualbox.org/wiki/Downloads
+* Ubuntu. (n.d.). *Download Ubuntu Desktop*. https://ubuntu.com/download/desktop
+* Microsoft. (n.d.). *Download Windows 11*. https://www.microsoft.com/software-download/windows11
