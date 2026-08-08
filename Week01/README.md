@@ -51,23 +51,23 @@ The following screenshots show the installation and setup of the software and pr
 
 ### Git Installation
 
-![Git Installation](screenshots/git-installation.png)
+![Git Installation](screenshots/Git.png)
 
 ### GitHub Desktop
 
-![GitHub Desktop](screenshots/github-desktop-installation.png)
+![GitHub Desktop](screenshots/GitHub Desktop.png)
 
 ### Visual Studio Code
 
-![Visual Studio Code](screenshots/vscode-installation.png)
+![Visual Studio Code](screenshots/VS Code.png)
 
 ### VirtualBox
 
-![VirtualBox](screenshots/virtualbox-installation.png)
+![VirtualBox](screenshots/VirtualBox.png)
 
 ### Ubuntu ISO
 
-![Ubuntu ISO](screenshots/ubuntu-iso.png)
+![Ubuntu ISO](screenshots/Ubuntu ISO.png)
 
 ### Windows ISO
 
@@ -75,11 +75,12 @@ The following screenshots show the installation and setup of the software and pr
 
 ### GitHub Profile
 
-![GitHub Profile](screenshots/github-profile.png)
+![GitHub Profile] [https://github.com/ozuya](https://github.com/ozuya)
+
 
 ### LinkedIn Profile
 
-![LinkedIn Profile](screenshots/linkedin-profile.png)
+![LinkedIn Profile][https://www.linkedin.com/in/gayoso-cedrick/](https://www.linkedin.com/in/gayoso-cedrick/)
 
 ---
 
