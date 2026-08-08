@@ -4,7 +4,7 @@
 
 * **Name:** Cedrick Capili Gayoso
 * **Course:** Bachelor of Science in Information Technology (BSIT)
-* **Section:** [Your Section]
+* **Section:** BSIT-4E
 * **Date:** August 8, 2026
 
 ---
