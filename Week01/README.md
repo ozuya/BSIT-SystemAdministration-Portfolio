@@ -41,7 +41,6 @@ The following software and installation files were installed or prepared during 
 
 * **GitHub:** https://github.com/ozuya
 * **LinkedIn:** https://www.linkedin.com/in/gayoso-cedrick/
-* **Email:** [cedrick.gayoso@gmail.com](mailto:cedrick.gayoso@gmail.com)
 
 ---
 
