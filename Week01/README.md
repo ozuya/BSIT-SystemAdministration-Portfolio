@@ -55,11 +55,11 @@ The following screenshots show the installation and setup of the software and pr
 
 ### GitHub Desktop
 
-![GitHub Desktop](screenshots/GitHub Desktop.png)
+![GitHub Desktop](screenshots/GitHubDesktop.png)
 
 ### Visual Studio Code
 
-![Visual Studio Code](screenshots/VS Code.png)
+![Visual Studio Code](screenshots/VSCode.png)
 
 ### VirtualBox
 
@@ -67,7 +67,7 @@ The following screenshots show the installation and setup of the software and pr
 
 ### Ubuntu ISO
 
-![Ubuntu ISO](screenshots/Ubuntu ISO.png)
+![Ubuntu ISO](screenshots/UbuntuISO.png)
 
 ### Windows ISO
 
