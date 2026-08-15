@@ -1,0 +1,14 @@
+digraph UbuntuBoot {
+  graph [rankdir=TB, bgcolor="white", margin=0.2];
+  node [shape=box, style="rounded", color="black", fontcolor="black", fontname="Times New Roman", fontsize=12, penwidth=1.2, margin="0.18,0.10"];
+  edge [color="black", penwidth=1.1];
+  p1 [label="1. Power On"];
+  p2 [label="2. BIOS / UEFI Initialization\nPOST and hardware initialization"];
+  p3 [label="3. Boot Device Detection\nFirmware selects bootable disk/device"];
+  p4 [label="4. Boot Loader (GRUB)\nLoads boot menu and selected entry"];
+  p5 [label="5. Linux Kernel + initramfs\nKernel initializes memory, CPU, drivers and root filesystem"];
+  p6 [label="6. init / systemd (PID 1)\nSystem manager begins user-space startup"];
+  p7 [label="7. Services Start\nNetwork, SSH, logging, scheduled services, getty"];
+  p8 [label="8. Login Prompt\nLocal console or remote SSH login"];
+  p1 -> p2 -> p3 -> p4 -> p5 -> p6 -> p7 -> p8;
+}
