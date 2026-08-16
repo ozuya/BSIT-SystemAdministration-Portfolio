@@ -8,7 +8,7 @@
 **Project Type:** Individual Portfolio Project  
 **Project Title:** Enterprise Server Deployment and Operating System Installation
 
-> **Current status (16 August 2026):** Ubuntu Server installation and all required verification tasks are complete. Windows Server 2025 Standard Evaluation (Desktop Experience) is installed, renamed to `winserver01`, and verified through successful Administrator login. Screenshot evidence 01-15 is included. Remaining external steps: update/publish the GitHub repository and post the LinkedIn reflection.
+> **Current status (15 August 2026):** Ubuntu Server installation and all required verification tasks are complete. Windows Server 2025 Standard Evaluation (Desktop Experience) is installed, renamed to `winserver01`, and verified through successful Administrator login. Screenshot evidence 01-15 is included. Remaining external steps: update/publish the GitHub repository and post the LinkedIn reflection.
 
 ## Project Overview
 This Week 3 portfolio project follows the course scenario of a Junior System Administrator at **ABC Startup Solutions** deploying the company's first Linux server. The Ubuntu Server is intended as a baseline for future file sharing, remote administration, database hosting, web hosting, and internal services. The project includes Ubuntu Server installation, configuration, verification, BIOS-versus-UEFI research, an Ubuntu boot-process flowchart, a Windows Server Evaluation bring-home activity, an operating-system comparison, and professional technical documentation.
